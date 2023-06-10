@@ -10,6 +10,8 @@
 - Instant feedback and score tracking to monitor your progress.
 - Randomized question order for a dynamic and fresh experience.
 
+<img width="535" alt="Screenshot 2023-06-10 at 9 06 16 AM" src="https://github.com/han-dann/python-quiz/assets/98670479/9b4f3d24-31d5-4e88-88af-9d1f3bac0d18">
+
 # 🌟 Usage
 - Clone the repository to your local machine. 🖥️
 - Open the Python quiz application file. 💻
